@@ -1,0 +1,35 @@
+body {
+  background-color: #1B2A41;
+}
+
+#app {
+  width: 800px;
+  height: 800px;
+  background-color: #F6AE2D;
+  margin: auto;
+  display: grid;
+}
+
+.new-grid-form {
+  margin: auto;
+  text-align: center;
+  color: #F7F7F9;
+  font-family: 'Courier New', Courier, monospace;
+  padding: 20px;
+}
+
+input {
+  width: 200px;
+  margin-right: 10px;
+}
+
+button {
+  font-family: 'Courier New', Courier, monospace;
+  background-color: #F6AE2D;
+  color: #F7F7F9;
+  border-radius: 8px;
+}
+
+.square {
+  background-color: #F7F7F9;
+}
